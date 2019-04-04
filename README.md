@@ -3,7 +3,7 @@
 
 The files in this repository represents my custom keymapping for use with the [Vortex Core Keyboard](http://www.vortexgear.tw/vortex2_2.asp?kind=47&kind2=224&kind3=&kind4=1036). 
 
-[![https://imgur.com/Abr2X9i.png](https://imgur.com/Abr2X9i.png)](https://imgur.com/Abr2X9i.png)
+[![https://i.imgur.com/txDLyB6.png](https://i.imgur.com/txDLyB6.png)](https://i.imgur.com/txDLyB6.png)
 
 ### Credit
 Many thanks to [@tsfreddie](https://github.com/TsFreddie) for reverse engineering its firmware to allow near limitless customization of the Core's key layout. 
