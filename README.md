@@ -5,6 +5,9 @@ The files in this repository represents my custom keymapping for use with the [V
 
 [![https://i.imgur.com/sFPsWXc.png](https://i.imgur.com/sFPsWXc.png)](https://i.imgur.com/sFPsWXc.png)
 
+This is a similar layout, except that the shifted number row is given first order status using FN1 modifier. The numbers themselves are accessed via the FN key in numpad layout.
+[![https://imgur.com/gallery/2wARJCz.png](https://i.imgur.com/2wARJCz.png)](https://i.imgur.com/2wARJCz.png)
+
 ### Credit
 Many thanks to [@tsfreddie](https://github.com/TsFreddie) for reverse engineering its firmware to allow near limitless customization of the Core's key layout. 
 
